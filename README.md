@@ -4,7 +4,7 @@
 > **Authors:** Kiran K. Kethineni, Samuel Y. Wu, Saraju P. Mohanty, Elias Kougianos
 > **Institution:** University of North Texas, Department of Computer Science and Engineering
 
-**[Project Page](https://kirankkethineni.github.io/ChromaSense)** · **[IEEE Paper](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=chroma-sense)** · **[GitHub](https://github.com/kirankkethineni/ChromaSense)**
+**[Project Page](https://kirankkethineni.github.io/ChromaSense)** · **[IEEE Paper](https://ieeexplore.ieee.org/abstract/document/11050694)** · **[GitHub](https://github.com/kirankkethineni/ChromaSense)**
 
 ---
 
